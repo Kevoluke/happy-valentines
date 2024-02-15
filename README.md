@@ -1,15 +1,15 @@
-## Happy Birthday!!!
+## Happy Valentines!!!
 
-### Wish someone special happy birthday in a special way.
+### Wish someone valentines in a special way.
 
-#### [See it Live](https://faahim.github.io/happy-birthday/)
+#### [See it Live](https://kevoluke.github.io/happy-valentines/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+On valentines I felt like the generic happy valentines text just wasn't gonna cut it for me.
 
 I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
+You can create your very own happy-valentines page in a few easy steps:
 
 * Fork the repository
 * Open `customize.json` and replace the content with your own
@@ -21,8 +21,6 @@ You can create your very own happy-birthday page in a few easy steps:
 I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
 
 Please note that I've created this page in a hurry and it comes with no warranty.
-
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
 
 
 ## Contributing
